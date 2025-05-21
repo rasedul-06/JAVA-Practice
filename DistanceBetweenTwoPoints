@@ -1,0 +1,4 @@
+package Distance;
+// Calculate the distance between two points
+
+import java.util.Scanner;
