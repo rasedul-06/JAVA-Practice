@@ -1,5 +1,5 @@
 package Area;
-//
+// Write a application that takes input from user and calculate the area of a triangle
 import java.util.Scanner;
 public class TriangleArea{
     public static void main(String[] args) {
