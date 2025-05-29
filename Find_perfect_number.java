@@ -1,7 +1,7 @@
 package Perfect_Number;
 import java.util.Scanner;
 
-public class find_perfect_number {
+public class Find_perfect_number {
 
     public boolean isPerfect(int num) {
         int sum = 0;
