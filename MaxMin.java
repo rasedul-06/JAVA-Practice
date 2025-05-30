@@ -1,5 +1,5 @@
 package Relational;
-
+//Write a program that calculate Maximum and Minimum number.
 import java.util.Scanner;
 public class MaxMin{
     public static void main(String[] args) {
