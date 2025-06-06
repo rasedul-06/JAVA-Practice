@@ -12,7 +12,7 @@ public class AdvancePrimeNumber{
         if(num==0 || num==1){
             System.out.println("It's not a prime number.");
         }else {
-            for (i = 2; i < num; i++) {
+            for (i = 2; i < num/2; i++) { //কোন সংখ্যাকে ঐ সংখ্যার অর্ধেকের বেশি সংখ্যা দিয়ে ভাগ করা যায় না।
                 if (num % 2 == 0) {
                     count++;
                     break;
